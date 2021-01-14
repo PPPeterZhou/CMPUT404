@@ -63,3 +63,10 @@ cmd = 'curl -i -X POST -d "X=Y" ' + url
 print("\nCommand:", cmd, "\n")
 os.system(cmd)
 
+'''
+git init
+git commit -m "lab1"
+git branch -M main
+git remote add origin https://github.com/PPPeterZhou/CMPUT404.git
+git push -u origin main 
+'''
